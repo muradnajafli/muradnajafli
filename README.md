@@ -1,7 +1,7 @@
 <h1 align="center"><em>Hi, I'm Murad Najafli</em></h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-- 🌍 I'm from **Baku, Azerbaijan**
+- 🌍 From **Baku, Azerbaijan**
 - 🚀 Deeply immersed in the world of **Android Development**
 - 🌱 Currently learning the wonders of **Jetpack Compose**
 - 📚 Lifelong learner, constantly expanding my knowledge in software development and beyond
