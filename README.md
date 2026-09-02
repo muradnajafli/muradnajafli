@@ -5,7 +5,7 @@
 - 🚀 Deeply immersed in the world of **Android Development**
 - 🌱 Currently learning the wonders of **Jetpack Compose**
 - 📚 Lifelong learner, constantly expanding my knowledge in software development and beyond
-- 📫 How to reach me: **muradnecefli05@gmail.com**
+- 📫 How to reach me: **muradnajafli05@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
