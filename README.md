@@ -1,24 +1,21 @@
-<h1 align="center"><em>Hi, I'm Murad Najafli</em></h1>
-<h3 align="center">A passionate Android Developer</h3>
+# Murad Najafli
 
-- 🌍 From **Baku, Azerbaijan**
-- 🚀 Deeply immersed in the world of **Android Development**
-- 🌱 Currently learning the wonders of **Jetpack Compose**
-- 📚 Lifelong learner, constantly expanding my knowledge in software development and beyond
-- 📫 How to reach me: **muradnajafli05@gmail.com**
+Android developer based in Baku, Azerbaijan.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+I build native Android apps with Kotlin and Jetpack Compose, and I'm currently
+exploring Kotlin Multiplatform to share code between Android and iOS. I care
+about clean architecture, thoughtful UI, and code that is easy to maintain.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/murad-najafli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murad-najafli" height="30" width="40" /></a>
-</p>
+### Stack
+
+[![Stack](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,git,github&theme=light)](https://skillicons.dev)
+
+**Languages** · Kotlin, Java
+**UI** · Jetpack Compose, Compose Multiplatform, XML Views
+**Data** · Room, SQLite, Realm, Firebase
+**Tools** · Android Studio, Git, Gradle
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-murad--najafli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/murad-najafli)
+[![Email](https://img.shields.io/badge/Email-muradnajafli05%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:muradnajafli05@gmail.com)
